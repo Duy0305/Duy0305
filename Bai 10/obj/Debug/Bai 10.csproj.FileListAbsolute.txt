@@ -1,0 +1,7 @@
+C:\Users\Duy\Desktop\Thư mục mới\Môn học\Nhập môn lập trình\Thực hành\Buoi 1_ Cấu trúc tuần tự\Bai 10\bin\Debug\Bai 10.exe.config
+C:\Users\Duy\Desktop\Thư mục mới\Môn học\Nhập môn lập trình\Thực hành\Buoi 1_ Cấu trúc tuần tự\Bai 10\bin\Debug\Bai 10.exe
+C:\Users\Duy\Desktop\Thư mục mới\Môn học\Nhập môn lập trình\Thực hành\Buoi 1_ Cấu trúc tuần tự\Bai 10\bin\Debug\Bai 10.pdb
+C:\Users\Duy\Desktop\Thư mục mới\Môn học\Nhập môn lập trình\Thực hành\Buoi 1_ Cấu trúc tuần tự\Bai 10\obj\Debug\Bai 10.csproj.AssemblyReference.cache
+C:\Users\Duy\Desktop\Thư mục mới\Môn học\Nhập môn lập trình\Thực hành\Buoi 1_ Cấu trúc tuần tự\Bai 10\obj\Debug\Bai 10.csproj.CoreCompileInputs.cache
+C:\Users\Duy\Desktop\Thư mục mới\Môn học\Nhập môn lập trình\Thực hành\Buoi 1_ Cấu trúc tuần tự\Bai 10\obj\Debug\Bai 10.exe
+C:\Users\Duy\Desktop\Thư mục mới\Môn học\Nhập môn lập trình\Thực hành\Buoi 1_ Cấu trúc tuần tự\Bai 10\obj\Debug\Bai 10.pdb
